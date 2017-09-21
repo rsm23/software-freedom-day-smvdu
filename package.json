@@ -1,7 +1,6 @@
 {
   "title": "Software freedom day",
   "name": "SFD",
-  "main": "app-server.js",
   "version": "1.0.0",
   "description": "SFD WEB SITE",
   "keywords": [
